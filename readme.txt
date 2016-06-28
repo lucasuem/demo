@@ -1,5 +1,3 @@
-texto qualquer
+# Demo Project README
 
-segundo texto
-
-terceiro texto
+This is a simple readme file
